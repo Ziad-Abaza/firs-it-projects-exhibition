@@ -1,0 +1,92 @@
+[
+    {
+        "project_name": "bionic arm",
+        "project_description": "The bionic arm is a highly advanced prosthetic limb that can be controlled via Bluetooth technology via a mobile application. It also features an integrated alarm and stopwatch, making it a versatile tool for individuals who require a highly functional and customizable prosthetic solution.",
+        "project_images": [
+            "assets/images/projects/arm.jpg",
+            "assets/images/projects/IMG-20230511-WA0025.jpg",
+            "assets/images/projects/IMG-20230511-WA0027.jpg"
+        ]
+    },
+    {
+        "project_name": "Robotic Car",
+        "project_description": "Robotics technology and remote control are incorporated in this project. it is designed for hazardous environments and hard-to-reach areas. the car includes a remote control system and a Robotic arm, enabling operations such as lifting objects, manipulating them, and remotely handling explosives.",
+        "project_images": [
+            "assets/images/projects/IMG-20230503-WA0118.jpg",
+            "assets/images/projects/IMG-20230503-WA0123.jpg",
+            "assets/images/projects/esp32-L298D555 - Copy(1).jpg"
+        ]
+    },
+    {
+        "project_name": "multi-level car garage",
+        "project_description": "The multi-level car garage project is a unique and practical design aimed at accommodating and storing many cars in a limited space. The project consists of multiple integrated floors, where cars are parked in their designated areas on each level. Thanks to its modern and efficient design, the multi-level car garage project is an ideal solution to meet the growing community's needs for safe and organized parking spaces.",
+        "project_images": [
+            "assets/images/projects/darage.jpg",
+            "assets/images/projects/IMG-20230503-WA0096.jpg",
+            "assets/images/projects/IMG-20230503-WA0138.jpg"
+        ]
+    },
+    {
+        "project_name": "line following car",
+        "project_description": "The 'Line Following' car is a smart vehicle equipped with infrared (IR) and ultrasonic sensors, and it excels at automatically following predefined lines on the ground. it can navigate tracks or roads while avoiding obstacles with its ultrasonic sensors. the car can also be controlled remotely via infrared or bluetooth technology, allowing users to change its movement, direction, and speed.",
+        "project_images": [
+            "assets/images/projects/IMG-20230505-WA0005.jpg",
+            "assets/images/projects/IMG-20230503-WA0119.jpg",
+            "assets/images/projects/esp32-L298D555.jpg"
+        ]
+    },
+    {
+        "project_name": "SMART SOLAR TRACKING SYSTEM",
+        "project_description": "A smart solar tracking panel is a ground-mounted solar panel system that produces more energy than a fixed panel, Control the light from mobile phone that allows you to switch lights on or off",
+        "project_images": [
+            "assets/images/projects/WhatsApp Image 2023-05-11 at 14.43.44.jpg"
+        ]
+    },
+    {
+        "project_name": "medication timer",
+        "project_description": "This Device is made for ALZHEIMER'S patients. it depends on a number of inclusions that are full of different kinds of pills, it has a timer to set it by your phone. when the time comes, it will get out the selected pill with a tiny alarm.",
+        "project_images": [
+            "assets/images/projects/WhatsApp Image 2023-05-11 at 14.13.36.jpg"
+        ]
+    },
+    {
+        "project_name": "Smart Parking",
+        "project_description": "Smart Parking is a project aimedat automating the process of parking management in urban areas. The project utilizes a combination of sensors, microcontrollers, and wireless communication to create an intelligent parking system that makes it easier for drivers to find parking spaces and helps parking lot operators to manage their parking lots more efficiently.",
+        "project_images": [
+            "assets/images/projects/WhatsApp Image 2023-05-11 at 14.34.19.jpg",
+            "assets/images/projects/WhatsApp Image 2023-05-11 .34.19.jpg"
+        ]
+    },
+    {
+        "project_name": "WALL-E",
+        "project_description": "A robot inspired by the cartoon WALL-E that performs a series of factory-related tasks",
+        "project_images": [
+            "assets/images/projects/WhatsApp Image 2023-05-11 at 14.24.22.jpg",
+            "assets/images/projects/WhatsApp Image 2023-05-11 at 14.24.21.jpg"
+        ]
+    },
+    {
+        "project_name": "Firefighting robot",
+        "project_description": "The firefighting robot project is a major goal for the development of technology used in the field of firefighting and safety. This project is characterized by its smart design and the use of a group of electronic components to improve its ability to extinguish fires effectively and quickly",
+        "project_images": [
+            "assets/images/projects/WhatsApp Image 2023-05-11 at 23.26.08.jpg",
+            "assets/images/projects/IMG-20230511-WA0072.jpg",
+            "assets/images/projects/IMG-20230511-WA0068.jpg"
+        ]
+    },
+    {
+        "project_name": "attendance device",
+        "project_description": "EASY WAY TO REGISTER STUDENTS BY READING THE IDENTIFICATION CARD OF EACH STUDENT AND AUTOMATICALLY REGISTERING THEM IN GOOGLE SPREAD SHEETS",
+        "project_images": [
+            "assets/images/projects/WhatsApp Image 2023-05-11 at 14.21.47.jpg",
+            "assets/images/projects/WhatsApp Image 2023-05-11 at 14.21.46.jpg"
+        ]
+    },
+    {
+        "project_name": "Ground Radar",
+        "project_description": "The Arduino Radar Project is more of a visual project than an implementation of an electrical circuit. Of course, I will use different hardware like Arduino UNO, HC-SR04 Ultrasonic Sensor and Servo Motor but the main aspect is the visualization in the processing application. Radar is a long-range object detection system that uses radio waves to provide certain parameters of an object such as its range, speed, and location. Radar technology is used in aircraft, missiles, marine forecasts, weather, and automobiles.",
+        "project_images": [
+            "assets/images/projects/WhatsApp Image 2023-05-11 at 14.26.42.jpg"
+        ]
+    }
+]
