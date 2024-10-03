@@ -56,4 +56,3 @@ For any inquiries or suggestions, please contact:
 ---
 
 Thank you for your interest in our event!
-```
